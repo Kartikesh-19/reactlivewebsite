@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.b52edcad.chunk.css",
+    "main.js": "/reactlivewebsite/static/js/main.15ee0bb1.chunk.js",
+    "main.js.map": "/reactlivewebsite/static/js/main.15ee0bb1.chunk.js.map",
+    "runtime-main.js": "/reactlivewebsite/static/js/runtime-main.56419485.js",
+    "runtime-main.js.map": "/reactlivewebsite/static/js/runtime-main.56419485.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/reactlivewebsite/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.99eefd55.chunk.js": "/reactlivewebsite/static/js/2.99eefd55.chunk.js",
+    "static/js/2.99eefd55.chunk.js.map": "/reactlivewebsite/static/js/2.99eefd55.chunk.js.map",
+    "static/js/3.2ea5d36a.chunk.js": "/reactlivewebsite/static/js/3.2ea5d36a.chunk.js",
+    "static/js/3.2ea5d36a.chunk.js.map": "/reactlivewebsite/static/js/3.2ea5d36a.chunk.js.map",
+    "index.html": "/reactlivewebsite/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/reactlivewebsite/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.b52edcad.chunk.css.map": "/reactlivewebsite/static/css/main.b52edcad.chunk.css.map",
+    "static/js/2.99eefd55.chunk.js.LICENSE.txt": "/reactlivewebsite/static/js/2.99eefd55.chunk.js.LICENSE.txt",
+    "static/media/market.170d9403.png": "/reactlivewebsite/static/media/market.170d9403.png",
+    "static/media/png.1bca807f.jpg": "/reactlivewebsite/static/media/png.1bca807f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56419485.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.99eefd55.chunk.js",
+    "static/css/main.b52edcad.chunk.css",
+    "static/js/main.15ee0bb1.chunk.js"
+  ]
+}
